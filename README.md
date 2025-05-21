@@ -1,7 +1,3 @@
-Certainly! Here's a quick README page for your bookmarklet:
-
----
-
 # Email Scraper Bookmarklet (Mailto Links Only)
 
 This is a simple JavaScript bookmarklet designed to quickly scrape and copy all email addresses found within `mailto:` links on any webpage.
